@@ -18,6 +18,7 @@
 | SQL_learning - sqlite3 | основы SQL| ---------|
 | Монте Карло| Визуализация ЦПТ и закона больших числе| ---------|
 | Heart_Attack_Analysis| Kaggle| ---------|
+| Video_games_EDA| Kaggle| ---------|
 
 
 
