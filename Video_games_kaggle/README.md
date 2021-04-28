@@ -1,0 +1,1 @@
+Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. We need to identify the patterns that determine the success of the game.
