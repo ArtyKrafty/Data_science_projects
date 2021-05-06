@@ -20,6 +20,9 @@
 | Heart_Attack_Analysis| Kaggle| ---------|
 | Video_games_EDA| Kaggle| ---------|
 | Churn_ML|Прогнозирование оттока клиентов, ML| ---------|data set и ссылка на коллаб недоступны, правообладатель|
+| Churn_bank_kaggle version|Kaggle| ---------||
+
+
 
 
 
