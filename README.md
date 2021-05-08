@@ -41,7 +41,7 @@ RUS - russian lang, ENG - english lang
 | Churn_ML - RUS|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
 | Churn_bank_kaggle version - ENG|Kaggle|версия для kaggle||
 
-Рекомендую открывать в (Collab)[https://colab.research.google.com/notebooks/intro.ipynb#recent=true]
+Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
 
 **Recommended**: open this repository in Colaboratory
@@ -52,6 +52,7 @@ RUS - russian lang, ENG - english lang
 
 **Artem Solomko** aka ArtyKraftyy
 artysolomko@gmail.com
+free feel to contact me
 
 
 
