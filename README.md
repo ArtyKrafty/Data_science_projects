@@ -23,7 +23,7 @@ https://www.kaggle.com/artemsolomko
 профиль на Leetcode // profile on LeetCode
 https://leetcode.com/artysolomko/
 
-
+RUS - russian lang, ENG - english lang
 
 | **Название/Name** | **Тип исследования/Research type** | **Примечание/Notes** |
 | :-------------------- | ---------------------: |:---------------------------:|
