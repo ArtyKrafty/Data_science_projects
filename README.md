@@ -1,5 +1,7 @@
 # Проекты Data Science // Projects Data Science
 
+![](https://i.ibb.co/GPLKyr5/Skill-Factory1307-2.png)
+
 Ноутбуки с отметкой `kaggle` выполнены на английском языке. Для всех есть копия в `Google collab`
 
 
@@ -39,10 +41,17 @@ https://leetcode.com/artysolomko/
 | Churn_ML - RUS|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
 | Churn_bank_kaggle version - ENG|Kaggle|версия для kaggle||
 
-
-Рекомендую открывать в Collab ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
+Рекомендую открывать в Collab 
+![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
 
 **Recommended**: open this repository in Colaboratory
+
+
+
+**Contributors**
+
+**Artem Solomko** aka ArtyKraftyy
+artysolomko@gmail.com
 
 
 
