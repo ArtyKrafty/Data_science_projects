@@ -1,6 +1,6 @@
 # Проекты Data Science // Projects Data Science
 
-                    ![](https://i.ibb.co/GPLKyr5/Skill-Factory1307-2.png)
+![](https://i.ibb.co/GPLKyr5/Skill-Factory1307-2.png)
 
 Ноутбуки с отметкой `kaggle` выполнены на английском языке. Для всех есть копия в `Google collab`
 
