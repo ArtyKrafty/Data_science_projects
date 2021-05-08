@@ -40,6 +40,8 @@ RUS - russian lang, ENG - english lang
 | Video_games_EDA - ENG| Kaggle| EDA игр|
 | Churn_ML - RUS|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
 | Churn_bank_kaggle version - ENG|Kaggle|версия для kaggle||
+| video_games_with_score_ kagg - ENG|Kaggle|версия для kaggle||
+
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
