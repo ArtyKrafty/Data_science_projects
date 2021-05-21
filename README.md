@@ -41,7 +41,7 @@ RUS - russian lang, ENG - english lang
 | Churn_ML - RUS|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
 | Churn_bank_kaggle version - ENG|Kaggle|версия для kaggle||
 | video_games_with_score_ kagg - ENG|Kaggle|версия для kaggle||
-
+| geo_data - RUS| Моделирование прогнозов (регрессия)| есть Collab версия, поиск лучших точек для бурения скважины|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
