@@ -27,7 +27,7 @@ RUS - russian lang, ENG - english lang
 
 | **Название папки/Name** | **Тип исследования/Research type** | **Примечание/Notes** |
 | :-------------------- | ---------------------: |:---------------------------:|
-[ [**Borrowers**](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning | Eсть Collab версия, цель исследования: формирование портрета идеального заемщика|
+| [**Borrowers**](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning | Eсть Collab версия, цель исследования: формирование портрета идеального заемщика|
 | [EDA](https://github.com/ArtyKrafty/Kraftyy/tree/main/EDA) - Исследование рынка недвижимости - RUS | Исследовательский анализ данных\\EDA | есть Collab версия, цель ииследования: выявление факторов влияющих на стоимость жилья|
 | [First_training](https://github.com/ArtyKrafty/Kraftyy/tree/main/First_training) - Музыка больших городов\введение - RUS| введение в DS\\Intro in DS | есть Collab версия, введение в EDA|
 | [Intro_ml](https://github.com/ArtyKrafty/Kraftyy/tree/main/Into_ML) | Введение в машинное обучение - RUS\\Into in DS| есть Collab версия, введение в ML, с учителем|
