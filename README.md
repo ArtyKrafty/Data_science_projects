@@ -27,7 +27,7 @@ RUS - russian lang, ENG - english lang
 
 | **Название папки/Name** | **Тип исследования/Research type** | **Примечание/Notes** |
 | :-------------------- | ---------------------: |:---------------------------:|
-[| [**Borrowers**](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning | Eсть Collab версия, цель исследования: формирование портрета идеального заемщика|
+[ [**Borrowers**](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning | Eсть Collab версия, цель исследования: формирование портрета идеального заемщика|
 | [EDA](https://github.com/ArtyKrafty/Kraftyy/tree/main/EDA) - Исследование рынка недвижимости - RUS | Исследовательский анализ данных\\EDA | есть Collab версия, цель ииследования: выявление факторов влияющих на стоимость жилья|
 | [First_training](https://github.com/ArtyKrafty/Kraftyy/tree/main/First_training) - Музыка больших городов\введение - RUS| введение в DS\\Intro in DS | есть Collab версия, введение в EDA|
 | [Intro_ml](https://github.com/ArtyKrafty/Kraftyy/tree/main/Into_ML) | Введение в машинное обучение - RUS\\Into in DS| есть Collab версия, введение в ML, с учителем|
@@ -42,7 +42,7 @@ RUS - russian lang, ENG - english lang
 | [Churn_bank_kaggle version](https://github.com/ArtyKrafty/Kraftyy/tree/main/Churn_bank_kaggle%20version) - ENG|Kaggle|версия для kaggle||
 | [video_games_with_score_ kagg](https://github.com/ArtyKrafty/Kraftyy/tree/main/video_games_with_score_%20kagg) - ENG|Kaggle|версия для kaggle||
 | [Oil_well_location](https://github.com/ArtyKrafty/Kraftyy/tree/main/Oil_well_location) - RUS| Моделирование прогнозов (регрессия)| есть Collab версия, поиск лучших точек для бурения скважины|
-| [Gold_prediction]https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction - RUS| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании|
+| [Gold_prediction](https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction - RUS)| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
