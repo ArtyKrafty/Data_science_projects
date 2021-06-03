@@ -42,6 +42,7 @@ RUS - russian lang, ENG - english lang
 | Churn_bank_kaggle version - ENG|Kaggle|версия для kaggle||
 | video_games_with_score_ kagg - ENG|Kaggle|версия для kaggle||
 | Oil_well_location - RUS| Моделирование прогнозов (регрессия)| есть Collab версия, поиск лучших точек для бурения скважины|
+| Gold_prediction - RUS| Промышленное моделивароние| есть Collab версия, EDA и построение модели для промышленной компании|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
