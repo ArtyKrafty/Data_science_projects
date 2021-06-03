@@ -42,7 +42,7 @@ RUS - russian lang, ENG - english lang
 | [Churn_bank_kaggle version](https://github.com/ArtyKrafty/Kraftyy/tree/main/Churn_bank_kaggle%20version) - ENG|Kaggle|версия для kaggle||
 | [video_games_with_score_ kagg](https://github.com/ArtyKrafty/Kraftyy/tree/main/video_games_with_score_%20kagg) - ENG|Kaggle|версия для kaggle||
 | [Oil_well_location](https://github.com/ArtyKrafty/Kraftyy/tree/main/Oil_well_location) - RUS| Моделирование прогнозов (регрессия)| есть Collab версия, поиск лучших точек для бурения скважины|
-| [Gold_prediction](https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction - RUS)| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании|
+| [Gold_prediction](https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction) - RUS| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
