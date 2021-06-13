@@ -29,13 +29,13 @@ RUS - russian lang, ENG - english lang
 | :-------------------- | ---------------------: |:---------------------------:|
 | [Исследование надёжности заёмщиков](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning | Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок|
 | [Исследование объявлений о продаже квартир](https://github.com/ArtyKrafty/Kraftyy/tree/main/EDA) - Исследование рынка недвижимости - RUS | Исследовательский анализ данных\\EDA | есть Collab версия, цель ииследования: выявление факторов влияющих на стоимость жилья|
-| [First_training](https://github.com/ArtyKrafty/Kraftyy/tree/main/First_training) - Музыка больших городов\введение - RUS| введение в DS\\Intro in DS | есть Collab версия, введение в EDA|
-| [Intro_ml](https://github.com/ArtyKrafty/Kraftyy/tree/main/Into_ML) | Введение в машинное обучение - RUS\\Into in DS| есть Collab версия, введение в ML, с учителем|
+| [Первый проект](https://github.com/ArtyKrafty/Kraftyy/tree/main/First_training) - Музыка больших городов\введение - RUS| введение в DS\\Intro in DS | есть Collab версия, введение в EDA|
+| [Введение в Машинное обучение](https://github.com/ArtyKrafty/Kraftyy/tree/main/Into_ML) | Введение в машинное обучение - RUS\\Into in DS| есть Collab версия, введение в ML, с учителем|
 | [Определение перспективного тарифа для телеком компании](https://github.com/ArtyKrafty/Kraftyy/tree/main/Statistic_analyze)- Тарифы телеком  - RUS| Статистический анализ данных\\Statistics| сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет|
 | [Прогноз продаж в интернет-магазине](https://github.com/ArtyKrafty/Kraftyy/tree/main/Games_EDA) - Рынок игр  - RUS| Исследовательский и статистический анализ\\EDA| есть Collab версия, EDA игр за период с 1980 до 2016 года с целью прогнозирования стратегии на 2017 год|
 | [Titanic](https://github.com/ArtyKrafty/Kraftyy/tree/main/Titanic) - kaggle  - ENG| Машинное обучение\\ML| есть Collab версия, kaggle compete|
-| [SQL_learning](https://github.com/ArtyKrafty/Kraftyy/tree/main/SQL_learning) - sqlite3 | основы SQL| обучение работы в SQlite3|
-| [Монте Карло](https://github.com/ArtyKrafty/Kraftyy/tree/main/%D0%9C%D0%BE%D0%BD%D1%82%D0%B5_%D0%BA%D0%B0%D1%80%D0%BB%D0%BE) - ENG| Визуализация ЦПТ и закона больших числе| |
+| [SQL изучение](https://github.com/ArtyKrafty/Kraftyy/tree/main/SQL_learning) - sqlite3 | основы SQL| обучение работы в SQlite3|
+| [Монте Карло Метод](https://github.com/ArtyKrafty/Kraftyy/tree/main/%D0%9C%D0%BE%D0%BD%D1%82%D0%B5_%D0%BA%D0%B0%D1%80%D0%BB%D0%BE) - ENG| Визуализация ЦПТ и закона больших числе| |
 | [Heart_Attack_Analysis](https://github.com/ArtyKrafty/Kraftyy/tree/main/Heart_Attack_Analysis) - ENG| Kaggle| проект: построение модели, предсказывающий сердечный приступ у пациента|
 | [Video_games_EDA](https://github.com/ArtyKrafty/Kraftyy/tree/main/Video_games_kaggle) - ENG| Kaggle| EDA игр|
 | [Прогнозирование оттока клиентов банка](https://github.com/ArtyKrafty/Kraftyy/tree/main/Churn_bank)|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
