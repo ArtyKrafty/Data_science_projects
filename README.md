@@ -55,7 +55,9 @@ RUS - russian lang, ENG - english lang
 
 **Artem Solomko** aka ArtyKraftyy
 artysolomko@gmail.com  
+
 https://www.kaggle.com/artemsolomko. 
+
 https://leetcode.com/artysolomko/. 
 
 free feel to contact me
