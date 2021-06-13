@@ -36,7 +36,7 @@ RUS - russian lang, ENG - english lang
 | [Titanic](https://github.com/ArtyKrafty/Kraftyy/tree/main/Titanic) - kaggle  - ENG| Машинное обучение\\ML| есть Collab версия, kaggle compete|
 | [SQL изучение](https://github.com/ArtyKrafty/Kraftyy/tree/main/SQL_learning) - sqlite3 | основы SQL| обучение работы в SQlite3|
 | [Монте Карло Метод](https://github.com/ArtyKrafty/Kraftyy/tree/main/monte_carlo_method) - ENG| Визуализация ЦПТ и закона больших числе| |
-| [Heart_Attack_Analysis](https://github.com/ArtyKrafty/Kraftyy/tree/main/Heart_Attack_Analysis) - ENG| Kaggle| проект: построение модели, предсказывающий сердечный приступ у пациента|
+| [Heart_Attack_Analysis](https://github.com/ArtyKrafty/Kraftyy/tree/main/heart_attack_eda_and_pred) - ENG| Kaggle| проект: построение модели, предсказывающий сердечный приступ у пациента|
 | [Video_games_EDA](https://github.com/ArtyKrafty/Kraftyy/tree/main/Video_games_kaggle) - ENG| Kaggle| EDA игр|
 | [Прогнозирование оттока клиентов банка](https://github.com/ArtyKrafty/Kraftyy/tree/main/churn_clients_bank)|Прогнозирование оттока клиентов, ML| есть Collab версия: цель - построение модели, с целью предсказания оттока клиентов|
 | [Churn_bank_kaggle version](https://github.com/ArtyKrafty/Kraftyy/tree/main/Churn_bank_kaggle%20version) - ENG|Kaggle|версия для kaggle||
