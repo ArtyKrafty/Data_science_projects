@@ -26,7 +26,7 @@ https://leetcode.com/artysolomko/
 RUS - russian lang, ENG - english lang
 
 | **Название папки/Name** | **Тип исследования/Research type** | **Примечание/Notes** |
-| :-------------------- | ---------------------: |:---------------------------:|
+| :-------------------- | :---------------------: |---------------------------|
 | [Исследование надёжности заёмщиков](https://github.com/ArtyKrafty/Kraftyy/tree/main/Borrowers) - Заемщики банка - RUS| Предобработка и очистка данных\\Data preprocessing and cleaning \\Кредитный отдел банка запросил исследовать, какие факторы влияют на надёжность заёмщика. Необходимо предоставить портрет надёжного заемщика.| Pandas. Предобработка данных, лемматизация, категоризация данных.|
 | [Исследование объявлений о продаже квартир](https://github.com/ArtyKrafty/Kraftyy/tree/main/real_state_eda) - Исследование рынка недвижимости - RUS | Исследовательский анализ данных\\EDA\\Необходимо определить параметры, оказывающие наибольшее влияние на оценку стоимости недвижимости. | Pandas, Matplotlib, Seaborn, NumPy, Datetime. Исследовательский анализ данных, предобработка данных, визуализация.|
 | [Первый проект](https://github.com/ArtyKrafty/Kraftyy/tree/main/first_training_music) - Музыка больших городов\введение - RUS| введение в DS\\Intro in DS | есть Collab версия, введение в EDA|
@@ -43,7 +43,7 @@ RUS - russian lang, ENG - english lang
 | [video_games_with_score_ kagg](https://github.com/ArtyKrafty/Kraftyy/tree/main/video_games_with_score_%20kagg) - ENG|Kaggle|версия для kaggle||
 | [Прогнозирование прибыли от нефтяных скважин](https://github.com/ArtyKrafty/Kraftyy/tree/main/Oil_well_location) - RUS| Моделирование прогнозов (регрессия)| Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, SciPy. Машинное обучение, Bootstrap, предобработка данных, визуализация.|
 | [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction) - RUS| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Машинное обучение, предобработка данных, визуализация, проверка гипотез.|
-| [	Защита персональных данных клиентов страховой компании]) - RUS| Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение.|
+| [	Защита персональных данных клиентов страховой компании](https://github.com/ArtyKrafty/Kraftyy/tree/main/personal_data_protection) - RUS| Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение.|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
