@@ -43,6 +43,7 @@ RUS - russian lang, ENG - english lang
 | [video_games_with_score_ kagg](https://github.com/ArtyKrafty/Kraftyy/tree/main/video_games_with_score_%20kagg) - ENG|Kaggle|версия для kaggle||
 | [Прогнозирование прибыли от нефтяных скважин](https://github.com/ArtyKrafty/Kraftyy/tree/main/Oil_well_location) - RUS| Моделирование прогнозов (регрессия)| Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, SciPy. Машинное обучение, Bootstrap, предобработка данных, визуализация.|
 | [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/ArtyKrafty/Kraftyy/tree/main/Gold_prediction) - RUS| Промышленное моделирование| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Машинное обучение, предобработка данных, визуализация, проверка гипотез.|
+| [	Защита персональных данных клиентов страховой компании]) - RUS| Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение.|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
