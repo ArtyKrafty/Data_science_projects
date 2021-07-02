@@ -48,6 +48,8 @@ RUS - russian lang, ENG - english lang
 | [17. Защита персональных данных клиентов страховой компании RUS](https://github.com/ArtyKrafty/Kraftyy/tree/main/personal_data_protection)| Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.| есть Collab версия, EDA и построение модели для промышленной компании\\Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение.|
 | [18. Аппроксимация и оптимизация](https://github.com/ArtyKrafty/Kraftyy/tree/main/optimize)| Изучение методом аппроксимации и оптимизации функций, численные методы| есть Collab версия, SciPy, Numpy, Pandas, Matplotlib, Seabron|
 | [19. Предсказания цены автомобиля](https://github.com/ArtyKrafty/Kraftyy/tree/main/auto_price_prediction)| Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля| есть Collab версия, Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, Ordinal Encoding, масштабирование данных|
+| [20. SMA стратегия Forex](https://github.com/ArtyKrafty/Kraftyy/tree/main/auto_price_prediction)| Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля| есть Collab версия, Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn, Plotly|
+
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
