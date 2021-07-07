@@ -14,6 +14,6 @@
 11. Изучаем Python. Том 1 | Лутц Марк
 
 https://proproprogs.ru/python
-https://www.udemy.com/
-https://www.coursera.org/
-https://www.youtube.com/watch?v=GZvgUcK2oEA
+https://www.udemy.com/course/sql-with-gleb/ - SQL для Анализа Данных с Глебом Михайловым
+https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных
+https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов
