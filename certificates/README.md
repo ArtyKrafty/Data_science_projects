@@ -17,3 +17,5 @@ https://proproprogs.ru/python
 https://www.udemy.com/course/sql-with-gleb/ - SQL для Анализа Данных с Глебом Михайловым
 https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных
 https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов
+https://www.khanacademy.org/math/arithmetic - базовая математика
+https://yandex.ru/yaintern/algorithm-training - тренировки по алгоритмам
