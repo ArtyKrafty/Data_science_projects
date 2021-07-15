@@ -49,7 +49,7 @@ RUS - russian lang, ENG - english lang
 | [18. Аппроксимация и оптимизация](https://github.com/ArtyKrafty/Kraftyy/tree/main/optimize)| Изучение методом аппроксимации и оптимизации функций, численные методы| есть Collab версия, SciPy, Numpy, Pandas, Matplotlib, Seabron|
 | [19. Предсказания цены автомобиля](https://github.com/ArtyKrafty/Kraftyy/tree/main/auto_price_prediction)| Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля| есть Collab версия, Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, Ordinal Encoding, масштабирование данных|
 | [20. SMA стратегия Forex](https://github.com/ArtyKrafty/Kraftyy/tree/main/sma_trading_forex)| Работа с времянными рядами, реализация торговой стратегии| есть Collab версия, Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn, Plotly|
-| [21. Прогнозирование количества заказов такси](https://github.com/ArtyKrafty/Kraftyy/tree/main/time_series_taxi)| Работа с времянными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| есть Collab версия, LightGBM, Scikit-learn, Statsmodels, Pandas. Временные ряды, машинное обучение, создание признаков.|
+| [21. Прогнозирование количества заказов такси](https://github.com/ArtyKrafty/Kraftyy/tree/main/time_series_taxi)| Работа с времянными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| есть Collab версия, LightGBM, Scikit-learn, Statsmodels, Pandas, ARIMA, SARIMA. Временные ряды, машинное обучение, создание признаков.|
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 ![](https://i.ibb.co/Vv6kj4h/colab-favicon-256px.png")
