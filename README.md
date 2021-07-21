@@ -69,7 +69,7 @@ https://www.kaggle.com/artemsolomko.
 
 https://leetcode.com/artysolomko/. 
 
-free feel to contact me
+feel free to contact me
 
 
 
