@@ -51,6 +51,8 @@ RUS - russian lang, ENG - english lang
 | [20. SMA стратегия Forex](https://github.com/ArtyKrafty/Kraftyy/tree/main/sma_trading_forex)| Работа с времянными рядами, реализация торговой стратегии| есть Collab версия, Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn, Plotly|
 | [21. Прогнозирование количества заказов такси](https://github.com/ArtyKrafty/Kraftyy/tree/main/time_series_taxi)| Работа с времянными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| есть Collab версия, LightGBM, Scikit-learn, Statsmodels, Pandas, ARIMA, SARIMA. Временные ряды, машинное обучение, создание признаков.|
 | [22. Классификация тональности текста](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_BERT)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| есть Collab версия, Scikit-learn, LightGBM, NLTK, re, DistilBert, Pandas. Предобработка и векторизация текста, машинное обучение.|
+| [23. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_BERT)|версия для kaggle|Kaggle notebook|
+
 
 
 Рекомендую открывать в [Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
