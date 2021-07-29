@@ -1,5 +1,12 @@
-Сертификаты о прохождении курсов и рекомендации литературы:
+Сертификаты о прохождении курсов
 
+01. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
+02. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
+03. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
+
+___
+
+Книги и ссылки
 
 01. Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Жерон Орельен
 02. Грокаем глубокое обучение | Траск Эндрю
@@ -14,14 +21,9 @@
 11. Изучаем Python. Том 1 | Лутц Марк
 
 https://proproprogs.ru/python
-
-https://www.udemy.com/course/sql-with-gleb/ - SQL для Анализа Данных с Глебом Михайловым
-
+https://gleb.center/ - SQL для Анализа Данных с Глебом Михайловым
 https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных
-
 https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов
-
 https://www.khanacademy.org/math/arithmetic - базовая математика
-
 https://yandex.ru/yaintern/algorithm-training - тренировки по алгоритмам
 
