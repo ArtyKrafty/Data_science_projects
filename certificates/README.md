@@ -20,10 +20,10 @@ ___
 10. Нейронные сети. Полный курс | Хайкин Саймон
 11. Изучаем Python. Том 1 | Лутц Марк
 
-https://proproprogs.ru/python
-https://gleb.center/ - SQL для Анализа Данных с Глебом Михайловым
-https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных
-https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов
-https://www.khanacademy.org/math/arithmetic - базовая математика
-https://yandex.ru/yaintern/algorithm-training - тренировки по алгоритмам
+https://proproprogs.ru/python.  
+https://gleb.center/ - SQL для Анализа Данных с Глебом Михайловым  
+https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных. 
+https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов.   
+https://www.khanacademy.org/math/arithmetic - базовая математика.   
+https://yandex.ru/yaintern/algorithm-training - тренировки по алгоритмам.   
 
