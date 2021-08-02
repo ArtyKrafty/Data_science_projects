@@ -3,6 +3,7 @@
 01. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
 02. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
 03. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
+04. [Python Kaggle Certificate of completion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Python.png)
 
 ___
 
