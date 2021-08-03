@@ -1,10 +1,12 @@
 Сертификаты о прохождении курсов
 
-01. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
-02. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
-03. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
-04. [Python Kaggle Certificate of completion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Python.png)
-05. [Intro in ML Kaggle Certificate of competion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intro%20to%20Machine%20Learning.png)
+01. [Специалист по Data Science Яндекс.Практикум]()
+02. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
+03. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
+04. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
+05. [Python Kaggle Certificate of completion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Python.png)
+06. [Intro in ML Kaggle Certificate of competion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intro%20to%20Machine%20Learning.png)
+07. [Intermediate Machine Learning Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intermediate%20Machine%20Learning.png)
 
 ___
 
