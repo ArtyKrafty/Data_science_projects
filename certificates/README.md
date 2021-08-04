@@ -15,6 +15,7 @@
 5. [Intro in ML Kaggle Certificate of competion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intro%20to%20Machine%20Learning.png)
 6. [Intermediate Machine Learning Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intermediate%20Machine%20Learning.png)
 7. [Feature Engineering Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Feature%20Engineering.png)
+8. [Pandas Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Pandas.png)
 
 ___
 
