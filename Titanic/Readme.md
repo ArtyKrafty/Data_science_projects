@@ -1,7 +1,7 @@
 <div class="alert alert-info">  
 
 Kaggle titanic compete
-Score 0.77990
+
 
 
 
