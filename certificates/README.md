@@ -11,11 +11,16 @@
 1. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
 2. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
 3. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
-4. [Python Kaggle Certificate of completion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Python.png)
-5. [Intro in ML Kaggle Certificate of competion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intro%20to%20Machine%20Learning.png)
-6. [Intermediate Machine Learning Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intermediate%20Machine%20Learning.png)
-7. [Feature Engineering Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Feature%20Engineering.png)
-8. [Pandas Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Pandas.png)
+
+---
+Kaggle сертификаты:  
+
+1. [Python Kaggle Certificate of completion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Python.png)
+2. [Intro in ML Kaggle Certificate of competion](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intro%20to%20Machine%20Learning.png)
+3. [Intermediate Machine Learning Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Intermediate%20Machine%20Learning.png)
+4. [Feature Engineering Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Feature%20Engineering.png)
+5. [Pandas Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Pandas.png)
+6. [Data Visualization Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Artem%20Solomko%20-%20Data%20Visualization.png)
 
 ___
 
