@@ -22,6 +22,7 @@ Kaggle сертификаты:
 5. [Pandas Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Pandas.png)
 6. [Data Visualization Kaggle](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Data%20Visualization.png)
 7. [Data Cleaning](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Data%20Cleaning.png)
+8. [Geospatial Analysis](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Geospatial%20Analysis.png)
 
 ___
 
