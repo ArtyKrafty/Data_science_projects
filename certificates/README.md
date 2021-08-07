@@ -28,6 +28,7 @@ Kaggle сертификаты:
 11. [Intro to SQL](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Intro%20to%20SQL.png)
 12. [Advanced SQL](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Advanced%20SQL.png)
 13. [Intro in AI Ethics](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Intro%20to%20AI%20Ethics.png)
+14. [Intro in Deep learning](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Intro%20to%20Deep%20Learning.png)
 
 ___
 
