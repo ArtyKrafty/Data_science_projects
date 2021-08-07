@@ -24,6 +24,7 @@ Kaggle сертификаты:
 7. [Data Cleaning](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Data%20Cleaning.png)
 8. [Geospatial Analysis](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Geospatial%20Analysis.png)
 9. [Machine Learning Explainability](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Machine%20Learning%20Explainability.png)
+10. [Natural Language](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Kaggle/Artem%20Solomko%20-%20Natural%20Language%20Processing.png)
 
 ___
 
