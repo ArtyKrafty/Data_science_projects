@@ -39,6 +39,7 @@ ________________________________________________________________________________
 | [21. Классификация тональности текста](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_BERT)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| есть Collab версия, Scikit-learn, LightGBM, NLTK, re, DistilBert, Pandas. Предобработка и векторизация текста, машинное обучение, стеккинг, ансамбли|
 | [22. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_kaggle)|версия для kaggle|Kaggle notebook|
 | [23. Аналитика в авиакомпании](https://github.com/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Pandas, numpy, Seaborn, Folium, исследовательский анализ данных|
+| [24. Kaggle ML cont](https://github.com/ArtyKrafty/Data_science_projects/tree/main/Kaggle_30ML_baseline)|версия для kaggle|Kaggle notebook|
 
 
 
