@@ -11,6 +11,7 @@
 1. [Анализ данных на Python c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/python.pdf)
 2. [SQL для анализа данных с Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql.pdf)
 3. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
+4. [SQL оконные функции](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql_window.pdf)
 
 ---
 Kaggle сертификаты:  
