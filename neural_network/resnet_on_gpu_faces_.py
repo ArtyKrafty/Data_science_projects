@@ -15,6 +15,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import numpy as np
 import pandas as pd
 
+# загрузка обучающей выборки
 
 def load_train(path):
 
@@ -42,6 +43,8 @@ def load_train(path):
     
     return train_datagen_flow
 
+# загрузка валидационной выборки
+
 def load_test(path):
 
     labels = pd.read_csv(path + 'labels.csv')
@@ -60,13 +63,14 @@ def load_test(path):
                           target_size=(150, 150), 
                           batch_size=8, 
                           class_mode='raw',
-                          subset='training', 
+                          subset='validation', 
                           seed=12345
                           )
     )
     
     return test_datagen_flow    
 
+# Создание модели на архитектуре ResNet50
 
 def create_model(input_shape):
  
@@ -84,8 +88,9 @@ def create_model(input_shape):
                   metrics=['mae'])
     return model
 
+# Обучение модели
 
-def train_model(model, train_data, test_data, epochs=3, batch_size=None,
+def train_model(model, train_data, test_data, epochs=8, batch_size=None,
                steps_per_epoch=None, validation_steps=None):
   
     train_datagen_flow = train_data
