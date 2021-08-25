@@ -9,7 +9,7 @@ Original file is located at
 
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense, GlobalAveragePooling2D
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import Nadam
 from tensorflow.keras.applications.resnet import ResNet50
 from tensorflow.keras.preprocessing.image import ImageDataGenerator 
 import numpy as np
@@ -18,8 +18,13 @@ import numpy as np
 def load_train(path):
     train_datagen = ImageDataGenerator(
         validation_split=0.25,
-        rescale=1./255, 
-        horizontal_flip=True)
+        rescale=1./255,
+        horizontal_flip=True, 
+        vertical_flip=True,
+        rotation_range=90,
+        width_shift_range=0.1,
+        height_shift_range=0.1
+        )
 
    
     train_datagen_flow = (train_datagen.flow_from_directory(
@@ -27,7 +32,7 @@ def load_train(path):
         target_size=(150, 150),
         class_mode='sparse',
         subset='training',
-        batch_size=32,
+        batch_size=8,
         seed=12345))
     
 
@@ -39,15 +44,12 @@ def create_model(input_shape):
     backbone = ResNet50(input_shape=input_shape,
                     weights='/datasets/keras_models/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5',
                     include_top=False)
-    
-    #backbone.trainable = True
-
     model = Sequential()
     model.add(backbone)
     model.add(GlobalAveragePooling2D())
     model.add(Dense(12, activation='softmax')) 
 
-    optimizer = Adam(lr=0.0005) 
+    optimizer=Nadam(learning_rate=0.0001)
     model.compile(optimizer=optimizer, loss='sparse_categorical_crossentropy',
                   metrics=['acc'])
     return model
