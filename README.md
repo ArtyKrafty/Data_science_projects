@@ -42,7 +42,7 @@ ________________________________________________________________________________
 | [24. Kaggle ML cont](https://github.com/ArtyKrafty/Data_science_projects/tree/main/Kaggle_30ML_baseline)|версия для kaggle|Kaggle notebook|
 | [25. Обучение нейронных сетей](https://github.com/ArtyKrafty/Data_science_projects/tree/main/neural_network)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Keras, PIL, NumPy, Pandas, Нейронные сети, ResNet50, Аугментация|
 | [26. Digits_recognation](https://github.com/ArtyKrafty/Data_science_projects/tree/main/Digits_recognation_CV)|распознавание цифр. MNIST, CV|Keras, PIL, NumPy, Pandas, Нейронные сети|
-
+| [26. LastFM reccomendation system](https://github.com/ArtyKrafty/Data_science_projects/tree/main/kaggel_last_fm)|простая рекомендательная система|Sparse матрицы|
 
 
 
