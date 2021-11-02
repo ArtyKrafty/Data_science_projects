@@ -45,7 +45,7 @@ ________________________________________________________________________________
 | [26. LastFM reccomendation system](https://github.com/ArtyKrafty/Data_science_projects/tree/main/kaggel_last_fm)|простая рекомендательная система|Sparse матрицы|
 | [27. Выпускной проект. YaPracticum](https://github.com/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Необходимо выяснить, что пользователь планирует уйти. Тогда ему будут предложены промокоды и специальные условия.|Sklearn, Keras, бинарная классификация, статистический анализ данных и иследовательский анализ данных. Подготовка Pipeline|
 | [28. OOП в линейных моделях](https://github.com/ArtyKrafty/Data_science_projects/tree/main/OOP_linear_models)|ООП в линейных моделях||
-
+| [29. Предсказание дефолта клиентов банка](https://github.com/ArtyKrafty/Data_science_projects/tree/main/OOP_linear_models)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn,|
 
 
 
