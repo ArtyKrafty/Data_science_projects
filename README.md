@@ -47,7 +47,7 @@ ________________________________________________________________________________
 | [28. OOП в линейных моделях](https://github.com/ArtyKrafty/Data_science_projects/tree/main/OOP_linear_models)|ООП в линейных моделях||
 | [29. Предсказание дефолта клиентов банка](https://github.com/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seaborn,|
 | [30. Предсказание температуры и углерода в процессе продувки](https://github.com/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seabor|
-| [31. Обучение нейронных сетей. DLS](https://github.com/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib, Seaborn|
+| [31. Обучение нейронных сетей. DLS](https://github.com/ArtyKrafty/Data_science_projects/tree/main/py_torch_baseline)|Полный цикл обучения ANN, CNN на pyTorch|Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib, Seaborn|
 
 
 
