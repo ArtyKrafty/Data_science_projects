@@ -49,7 +49,7 @@ ________________________________________________________________________________
 | [30. Предсказание температуры и углерода в процессе продувки](https://github.com/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Scikit-learn, LightGBM, Catboost, Pandas, NumPy, Matplotlib, Seabor|
 | [31. Обучение нейронных сетей. DLS](https://github.com/ArtyKrafty/Data_science_projects/tree/main/py_torch_baseline)|Полный цикл обучения ANN, CNN на pyTorch|Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib, Seaborn|
 | [32. Прогнозирование востребования баковской гарантии](https://github.com/ArtyKrafty/Data_science_projects/tree/main/Bank_garanty)|построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Scikit-learn, Catboost, Pandas, NumPy, Matplotlib, Seaborn|
-
+| [33. Компьютерное зрение. Классификация. Симпсоны](https://github.com/ArtyKrafty/Data_science_projects/tree/main/kaggle_simpson)|версия для kaggle|Kaggle notebook|
 
 
 
