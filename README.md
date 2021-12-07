@@ -50,6 +50,8 @@ ________________________________________________________________________________
 | [31. Обучение нейронных сетей. DLS](https://github.com/ArtyKrafty/Data_science_projects/tree/main/py_torch_baseline)|Полный цикл обучения ANN, CNN на pyTorch|Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib, Seaborn|
 | [32. Прогнозирование востребования баковской гарантии](https://github.com/ArtyKrafty/Data_science_projects/tree/main/Bank_garanty)|построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Scikit-learn, Catboost, Pandas, NumPy, Matplotlib, Seaborn|
 | [33. Компьютерное зрение. Классификация. Симпсоны](https://github.com/ArtyKrafty/Data_science_projects/tree/main/kaggle_simpson)|версия для kaggle|Kaggle notebook|
+| [34. Компьютерное зрение. Сегментация](https://github.com/ArtyKrafty/Data_science_projects/tree/main/segmentation)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Torch, numpy, pandas, sklearn|
+| [35. Компьютерное зрение. Автоэнкодеры](https://github.com/ArtyKrafty/Data_science_projects/tree/main/autoencoders)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Torch, numpy, pandas, sklearn|
 
 
 
