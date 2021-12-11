@@ -52,7 +52,7 @@ ________________________________________________________________________________
 | [33. Компьютерное зрение. Классификация. Симпсоны](https://github.com/ArtyKrafty/Data_science_projects/tree/main/kaggle_simpson)|версия для kaggle|Kaggle notebook|
 | [34. Компьютерное зрение. Сегментация](https://github.com/ArtyKrafty/Data_science_projects/tree/main/segmentation)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Torch, numpy, pandas, sklearn|
 | [35. Компьютерное зрение. Автоэнкодеры](https://github.com/ArtyKrafty/Data_science_projects/tree/main/autoencoders)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Torch, numpy, pandas, sklearn|
-
+| [36. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan)|реализация архитектур нейронных сетей GAN, pyTorch|Torch, numpy, pandas, sklearn|
 
 
 
