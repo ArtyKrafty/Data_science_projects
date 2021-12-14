@@ -5,7 +5,7 @@
 1. [Специалист по Data Science Яндекс.Практикум](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%BE_20212DS00766.pdf)
 2. [Специалист Data Analyst Яндекс.Практикум]()
 3. ["Deep Learning", часть 1, продвинутый поток]()
-
+4. [Математика для Data Science. Специализация. МатАн]()
 ---
 ---
 Дополнительно:
@@ -15,7 +15,7 @@
 3. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
 4. [SQL оконные функции](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql_window.pdf)
 5. [Сертификат участинка EVRAZ AI CHALLENGE](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/artysolomko@gmail.com.pdf)
-6. [Математика для Data Science. Специализация]()
+
 
 ---
 Kaggle сертификаты:  
