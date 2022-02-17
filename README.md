@@ -1,7 +1,7 @@
 <p align="center"> Проекты Data Science </p align="center">
 
 <p align="center"><img src='https://i.ibb.co/M1LR7jn/1605470400.jpg'></p>
-
+ 
 Ноутбуки с отметкой `kaggle` выполнены на английском языке. Для всех есть копия в `Google collab`
 
 
