@@ -7,6 +7,7 @@
 3. ["Deep Learning", часть 1, продвинутый поток]()
 4. [Математика для Data Science. Специализация - Математический анализ](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-94351-7952c43.pdf)
 5. [Математика для Data Science. Специализация - Линейная алгебра](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-96146-0a222bf.pdf)
+6. [Математика для Data Science. Специализация - Теория вероятности](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-98107-59643f2.pdf)
 
 
 
