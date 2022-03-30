@@ -55,6 +55,7 @@ ________________________________________________________________________________
 | [35. Компьютерное зрение. Автоэнкодеры](https://github.com/ArtyKrafty/Data_science_projects/tree/main/autoencoders)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Torch, numpy, pandas, sklearn|
 | [36. Компьютерное зрение. GAN](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gan)|реализация архитектур нейронных сетей GAN, pyTorch|Torch, numpy, pandas, sklearn|
 | [37. NLP. Простые эмбэддинги](https://github.com/ArtyKrafty/Data_science_projects/tree/main/simple_embd)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Torch, numpy, pandas, sklearn, gensim, word2vec, Natasha|
+| [38. NLP. Простые эмбэддинги](https://github.com/ArtyKrafty/Data_science_projects/tree/main/nlp_embeddings)|реализация эмбеддингов c применением SVD, word2vec, классификация, pyTorch|Torch, numpy, pandas, sklearn, gensim, word2vec, TF-IDF|
 
 
 
