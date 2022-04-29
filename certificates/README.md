@@ -21,6 +21,7 @@
 3. [Математика и Python для анализа данных](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/Math_and_linear.pdf)
 4. [SQL оконные функции](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/sql_window.pdf)
 5. [Сертификат участинка EVRAZ AI CHALLENGE](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/artysolomko@gmail.com.pdf)
+6. [Data Science c Глебом Михайловым](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-113596-5f342aa.pdf)
 
 
 ---
