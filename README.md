@@ -57,10 +57,10 @@ ________________________________________________________________________________
 | [37. NLP. Простые эмбэддинги](https://github.com/ArtyKrafty/Data_science_projects/tree/main/simple_embd)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Torch, numpy, pandas, sklearn, gensim, word2vec, Natasha|
 | [38. NLP. Простые эмбэддинги](https://github.com/ArtyKrafty/Data_science_projects/tree/main/nlp_embeddings)|реализация эмбеддингов c применением SVD, word2vec, классификация, pyTorch|Torch, numpy, pandas, sklearn, gensim, word2vec, TF-IDF|
 | [39. NLP. Классификация](https://github.com/ArtyKrafty/Data_science_projects/tree/main/nlp_classification)|реализация различных подходов к классификации текстов, RNN, CNN, pyTorch|Torch, numpy, pandas, sklearn, Glove, word2vec|
-| [40. NLP. Языковые модели](https://github.com/ArtyKrafty/Data_science_projects/tree/main/language_model)|реализация различных подходов к классификации к определению POS|
-| [41. NLP. Seq2seq](https://github.com/ArtyKrafty/Data_science_projects/tree/main/seq2seq)|реализация Seq2seq модели с аттеншн|
-| [42. NLP. BERT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/bert)|работа с трансформерами. BERT|
-| [43. NLP. GPT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gpt)|работа с трансформерами. GPT2|
+| [40. NLP. Языковые модели](https://github.com/ArtyKrafty/Data_science_projects/tree/main/language_model)|реализация различных подходов к классификации к определению POS|torch|
+| [41. NLP. Seq2seq](https://github.com/ArtyKrafty/Data_science_projects/tree/main/seq2seq)|реализация Seq2seq модели с аттеншн|torch, nltk, torch.dataset|
+| [42. NLP. BERT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/bert)|работа с трансформерами. BERT| BERT, hugging face, torch|
+| [43. NLP. GPT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gpt)|работа с трансформерами. GPT2| GPT2, hugging face, torch|
 
 
 **Artem Solomko** aka ArtyKraftyy
