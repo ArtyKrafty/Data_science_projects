@@ -59,8 +59,8 @@ ________________________________________________________________________________
 | [39. NLP. Классификация](https://github.com/ArtyKrafty/Data_science_projects/tree/main/nlp_classification)|реализация различных подходов к классификации текстов, RNN, CNN, pyTorch|Torch, numpy, pandas, sklearn, Glove, word2vec|
 | [40. NLP. Языковые модели](https://github.com/ArtyKrafty/Data_science_projects/tree/main/language_model)|реализация различных подходов к классификации к определению POS|
 | [41. NLP. Seq2seq](https://github.com/ArtyKrafty/Data_science_projects/tree/main/seq2seq)|реализация Seq2seq модели с аттеншн|
-
-
+| [42. NLP. BERT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/bert)|работа с трансформерами. BERT|
+| [43. NLP. GPT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gpt)|работа с трансформерами. GPT2|
 
 
 **Artem Solomko** aka ArtyKraftyy
