@@ -61,6 +61,10 @@ ________________________________________________________________________________
 | [41. NLP. Seq2seq](https://github.com/ArtyKrafty/Data_science_projects/tree/main/seq2seq)|реализация Seq2seq модели с аттеншн|torch, nltk, torch.dataset|
 | [42. NLP. BERT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/bert)|работа с трансформерами. BERT| BERT, hugging face, torch|
 | [43. NLP. GPT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gpt)|работа с трансформерами. GPT2| GPT2, hugging face, torch|
+| [44. SparkML](https://github.com/ArtyKrafty/Data_science_projects/tree/main/spark)|работа SparkML| spark, sparkML|
+
+
+
 
 
 **Artem Solomko** aka ArtyKraftyy
