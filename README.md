@@ -62,7 +62,7 @@ ________________________________________________________________________________
 | [42. NLP. BERT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/bert)|работа с трансформерами. BERT| BERT, hugging face, torch|
 | [43. NLP. GPT](https://github.com/ArtyKrafty/Data_science_projects/tree/main/gpt)|работа с трансформерами. GPT2| GPT2, hugging face, torch|
 | [44. SparkML](https://github.com/ArtyKrafty/Data_science_projects/tree/main/spark)|работа SparkML| spark, sparkML|
-
+| [45. NLP. Summarization](https://github.com/ArtyKrafty/Data_science_projects/tree/main/summarization)|работа с с архитектурами для суммаризации текста| LSTM, Summarunner, torch|
 
 
 
