@@ -64,6 +64,7 @@ ________________________________________________________________________________
 | [44. SparkML](https://github.com/ArtyKrafty/Data_science_projects/tree/main/spark)|работа SparkML| spark, sparkML|
 | [45. NLP. Summarization](https://github.com/ArtyKrafty/Data_science_projects/tree/main/summarization)|работа с с архитектурами для суммаризации текста| LSTM, Summarunner, torch|
 | [46. NLP. Audio processing](https://github.com/ArtyKrafty/Data_science_projects/tree/main/audio)|работа со звуком, классификация и регрессия| torch, librosa|
+| [47. NLP/CNN. Image Captioning](https://github.com/ArtyKrafty/Data_science_projects/tree/main/image_cap)|работа с задачей Image Captioning| torch, seq2seq|
 
 
 
