@@ -9,6 +9,7 @@
 5. [Математика для Data Science. Специализация - Математический анализ](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-94351-7952c43.pdf)
 6. [Математика для Data Science. Специализация - Линейная алгебра](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-96146-0a222bf.pdf)
 7. [Математика для Data Science. Специализация - Теория вероятности](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-98107-59643f2.pdf)
+8. [Математическая статистика](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-115952-6ba4300.pdf)
 
 
 
