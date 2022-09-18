@@ -4,7 +4,7 @@
 
 1. [Специалист по Data Science Яндекс.Практикум](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%BE_20212DS00766.pdf)
 2. [Специалист Data Analyst Яндекс.Практикум](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%BE_20222DA00025.pdf)
-3. ["Deep Learning", семестр 1, продвинутый поток]()
+3. ["Deep Learning", семестр 1, продвинутый поток](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/diploma_ru.pdf)
 4. ["Deep Learning", семестр 2, продвинутый поток]()
 5. [Математика для Data Science. Специализация - Математический анализ](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-94351-7952c43.pdf)
 6. [Математика для Data Science. Специализация - Линейная алгебра](https://github.com/ArtyKrafty/Data_science_projects/blob/main/certificates/stepik-certificate-96146-0a222bf.pdf)
